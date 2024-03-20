@@ -7,3 +7,5 @@ This repo is for learning TypeScript.
 ## Notes
 1. Branch is version paths
 2. Remote is github server to store code
+...
+//i just clone P'Sainy code
