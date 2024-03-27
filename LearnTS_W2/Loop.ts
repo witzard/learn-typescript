@@ -4,6 +4,7 @@ for(let i = 0; i < 10 ;i++){
     count += i;
 }
  
-while(count!=0){
-    count -= 1;
-}
+// while(count!=0){
+//     console.log(count);
+//     count -= ;
+// }
