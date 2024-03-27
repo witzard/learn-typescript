@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "ls": "^0.2.1",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.8"
+  }
+}

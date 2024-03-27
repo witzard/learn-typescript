@@ -3,6 +3,7 @@
 //Comparison operator < > = <= >=  
 
 //Number float+int
+console.log("Hello, This is code from nano editor in terminal");
 console.log("100+1");
 console.log(100+1);
 console.log(0.001);
