@@ -26,7 +26,7 @@ const arr3 = [];
 // for (let i = 0 ; i<arr1.length; i++){
 //     arr5.push(arr1[i] * arr1[i]);
 // }
-// console.log(`arr5 = ${arr5}`);
+
 
 
 // const arr5 = arr1.map((item)=>{
@@ -34,3 +34,6 @@ const arr3 = [];
 // });
 const arr5 = arr1.map((item)=> item * item );
 console.log(`arr5 = `,arr5);
+console.log(`arr5 = ${arr5.join(",")}`);
+
+console.log("I'm  writing this in boot terminal. I'm really cool");
